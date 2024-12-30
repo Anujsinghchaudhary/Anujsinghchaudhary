@@ -29,5 +29,7 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujsinghchaudhary&show_icons=true&locale=en" alt="anujsinghchaudhary" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujsinghchaudhary&" alt="anujsinghchaudhary" /></p>
-ndia 🇮🇳
-Buy Me A Coffee
+India 🇮🇳
+Buy Me A Coffee-
+upi id -anujsinghchaudhary07@oksbi
+bitcoin(ERC20)-0x9fde70ce36ba6da56283500bf98c1c8cbf9d38b3
