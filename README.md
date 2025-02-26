@@ -7,7 +7,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AEbut4JZ9/?mibextid=wwXIfr)
 [![WordPress Badge](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/anujsinghchaudhary07/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Mukulsingh27.Mukulsingh27)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Anujsinghchaudhary.Anujsinghchaudhary)
 
 A passionate full-stack web developer who loves coding 🌐, listening to music 🎶, cooking 🍳, and riding 🏍️.
 
@@ -44,10 +44,10 @@ An enthusiastic learner interested in exploring the ever-evolving IT industry, I
 
 📈 **My GitHub Stats:**
 
-<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=anujsinghchaudhary07-gmailcom&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Anujsinghchaudhary" /></p>
+<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Anujsinghchaudhary&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Anujsinghchaudhary" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujsinghchaudhary&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Anujsinghchaudhary" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Anujsinghchaudhary" alt="Anujsinghchaudhary" /></p>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img height="200em" align="center" src="https://github-profile-trophy.vercel.app/?username=anujsinghchaudhary07-gmailcom" alt="Anujsinghchaudhary" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img height="200em" align="center" src="https://github-profile-trophy.vercel.app/?username=Anujsinghchaudhary" alt="Anujsinghchaudhary" /></a></p>
