@@ -1,4 +1,4 @@
-## Hi there, I'm <a href="https://anujsingh.dev/" target="_blank">Anuj Singh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40>
+## Hi there, I'm <a href="https://anujsingh.dev/" target="_blank">Anuj Singh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-singh-chaudhary07/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anujsingh-portfolio.vercel.app/)
@@ -15,13 +15,12 @@ An enthusiastic learner interested in exploring the ever-evolving IT industry, I
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="408" height="318" />
   
-
 **Talking about Me:**
 
 - 👨🏻‍💻 I’m currently working on something cool
 - 🚀 Have started learning TypeScript and Next.js
 - 💬 Ask me about anything, I am happy to help you
-- 📫 How to reach me: mukulsingh3344@gmail.com
+- 📫 How to reach me: anujsinghchaudhary07@gmail.com
 
 </br>
 
@@ -45,10 +44,10 @@ An enthusiastic learner interested in exploring the ever-evolving IT industry, I
 
 📈 **My GitHub Stats:**
 
-<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Anujsinghchaudhary&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="Anujsinghchaudhary" /></p>
+<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Anujsinghchaudhary&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Anujsinghchaudhary" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujsinghchaudhary&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Anujsinghchaudhary" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Anujsinghchaudhary&" alt="Anujsinghchaudhary" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Anujsinghchaudhary" alt="Anujsinghchaudhary" /></p>
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img height="200em" align="center" src="https://github-profile-trophy.vercel.app/?username=Anujsinghchaudhary" alt="Anujsinghchaudhary" /></a></p>
