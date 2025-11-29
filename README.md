@@ -12,9 +12,11 @@
 
 A passionate full-stack web developer who loves coding 🌐, listening to music 🎶, cooking 🍳, and riding 🏍️.
 
-<img align="right" alt="Coding GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
+<img align="right" alt="Coding GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" height="280" />
 
 An enthusiastic learner interested in exploring the ever-evolving IT industry, I am eager to take on new challenges and opportunities. With a focus on development and a strong analytical mindset, I strive to grow and make an impact in the tech world.
+
+<br clear="right"/>
 
 ## 👨‍💻 About Me
 
@@ -47,12 +49,12 @@ An enthusiastic learner interested in exploring the ever-evolving IT industry, I
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anujsinghchaudhary&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anujsinghchaudhary&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical&cache_seconds=86400" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anujsinghchaudhary&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujsinghchaudhary&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=anujsinghchaudhary&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujsinghchaudhary&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
@@ -60,3 +62,9 @@ An enthusiastic learner interested in exploring the ever-evolving IT industry, I
     <img src="https://github-profile-trophy.vercel.app/?username=anujsinghchaudhary&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anujsinghchaudhary&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
