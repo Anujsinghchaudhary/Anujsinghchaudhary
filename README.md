@@ -12,7 +12,7 @@
 
 A passionate full-stack web developer who loves coding 🌐, listening to music 🎶, cooking 🍳, and riding 🏍️.
 
-<img align="right" alt="Coding GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="408" height="318" />
+<img align="right" alt="Coding GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
 
 An enthusiastic learner interested in exploring the ever-evolving IT industry, I am eager to take on new challenges and opportunities. With a focus on development and a strong analytical mindset, I strive to grow and make an impact in the tech world.
 
