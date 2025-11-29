@@ -15,6 +15,7 @@ A passionate full-stack web developer who loves coding 🌐, listening to music 
 <img align="right" alt="Coding GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" height="280" />
 
 An enthusiastic learner interested in exploring the ever-evolving IT industry, I am eager to take on new challenges and opportunities. With a focus on development and a strong analytical mindset, I strive to grow and make an impact in the tech world.
+I believe in writing clean, maintainable code and following best practices. My journey in tech has been driven by curiosity and a desire to solve real-world problems through innovative solutions. Whether it's building responsive web applications, optimizing backend performance, or exploring new technologies, I'm always excited to learn and grow.
 
 <br clear="right"/>
 
