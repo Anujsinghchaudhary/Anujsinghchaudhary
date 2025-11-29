@@ -12,9 +12,9 @@
 
 A passionate full-stack web developer who loves coding 🌐, listening to music 🎶, cooking 🍳, and riding 🏍️.
 
-An enthusiastic learner interested in exploring the ever-evolving IT industry, I am eager to take on new challenges and opportunities. With a focus on development and a strong analytical mindset, I strive to grow and make an impact in the tech world.
+<img align="right" alt="Coding GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="408" height="318" />
 
-<img align="right" alt="Coding GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
+An enthusiastic learner interested in exploring the ever-evolving IT industry, I am eager to take on new challenges and opportunities. With a focus on development and a strong analytical mindset, I strive to grow and make an impact in the tech world.
 
 ## 👨‍💻 About Me
 
@@ -22,8 +22,6 @@ An enthusiastic learner interested in exploring the ever-evolving IT industry, I
 - 🚀 Learning TypeScript and Next.js
 - 💬 Ask me about anything, I'm happy to help
 - 📫 Reach me at: anujsinghchaudhary07@gmail.com
-
-<br clear="right"/>
 
 ## 🛠️ Languages and Tools
 
@@ -48,18 +46,23 @@ An enthusiastic learner interested in exploring the ever-evolving IT industry, I
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anujsinghchaudhary&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujsinghchaudhary&exclude_repo=KNN-Image-Classification&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
+</p>
 
-<div align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujsinghchaudhary&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anujsinghchaudhary&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anujsinghchaudhary&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
