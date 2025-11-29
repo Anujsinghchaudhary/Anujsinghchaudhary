@@ -15,6 +15,7 @@ A passionate full-stack web developer who loves coding 🌐, listening to music 
 <img align="right" alt="Coding GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" height="280" />
 
 An enthusiastic learner interested in exploring the ever-evolving IT industry, I am eager to take on new challenges and opportunities. With a focus on development and a strong analytical mindset, I strive to grow and make an impact in the tech world.
+
 I believe in writing clean, maintainable code and following best practices. My journey in tech has been driven by curiosity and a desire to solve real-world problems through innovative solutions. Whether it's building responsive web applications, optimizing backend performance, or exploring new technologies, I'm always excited to learn and grow.
 
 <br clear="right"/>
@@ -49,20 +50,13 @@ I believe in writing clean, maintainable code and following best practices. My j
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anujsinghchaudhary&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujsinghchaudhary&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-</p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=anujsinghchaudhary&show_icons=true&locale=en&theme=radical&hide_border=true" alt="anujsinghchaudhary" /></p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujsinghchaudhary&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujsinghchaudhary&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="anujsinghchaudhary" /></p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anujsinghchaudhary&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujsinghchaudhary&theme=radical&hide_border=true" alt="anujsinghchaudhary" /></p>
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujsinghchaudhary&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="anujsinghchaudhary" /></a></p>
 
 ---
 
