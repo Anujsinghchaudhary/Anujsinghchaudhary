@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anuj_singh_chaudharyy/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AEbut4JZ9/?mibextid=wwXIfr)
 [![WordPress Badge](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/anujsinghchaudhary07/)
-<a href="https://www.credly.com/badges/af0a80b7-37df-4dd3-a94d-12b2afc208d5"><img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="110" /></a>
+[![Credly Badge](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/af0a80b7-37df-4dd3-a94d-12b2afc208d5)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=anujsinghchaudhary.anujsinghchaudhary)
 
