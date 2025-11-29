@@ -47,25 +47,16 @@ An enthusiastic learner interested in exploring the ever-evolving IT industry, I
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anujsinghchaudhary&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anujsinghchaudhary&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anujsinghchaudhary&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujsinghchaudhary&exclude_repo=KNN-Image-Classification&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujsinghchaudhary&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=anujsinghchaudhary&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anujsinghchaudhary&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=anujsinghchaudhary&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
   </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anujsinghchaudhary&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
